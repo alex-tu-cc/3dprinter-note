@@ -9,3 +9,6 @@ https://www.tinkercad.com/
 http://beardad1975.blogspot.tw/2015/02/3dp-slic3r-z-height.html
  * extrusion width (線寬)
 http://diy3dprint.blogspot.tw/2014/03/extrusion-width.html?m=1
+
+## printer component
+https://docs.google.com/spreadsheets/d/1LaPrAvRbORS-qCCihxdWfxDoJ-TcBhYGXyEMuSOrVQg/edit#gid=0
